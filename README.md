@@ -4,3 +4,5 @@ The player will play for 5 rounds and a score will be calculated for that round 
 After each five round the player will decide if he want to continue playing the game or exit the game if they chosse to keep playing the score for their next round will be appended to the one before it.<br />
 For those who havent played the game before its recommended to read the walkthrough before playing the game.<br />
 Finally when a player exits the game all his score will be reset but if it is needed to keep the score it can be made possible with a minimal change in the code.<br />
+
+##Screenshots
